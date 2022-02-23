@@ -1,4 +1,8 @@
-git add .
+git add
 git status
-git commit -m ""
+git commit
 git push
+git branch
+git init
+git pull
+git checkout
